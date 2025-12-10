@@ -6,7 +6,7 @@ Didesain untuk memberikan pengalaman mendengarkan musik yang smooth dan mudah di
 
 ## 🧑‍🎓 Identitas Pembuat
 - **Nama:** Aji Rohmana  
-- **NIM:** _…isi NIM kamu di sini…_  
+- **NIM:** 14022300064
 - **Kelas:** 5B-INF  
 
 ---
