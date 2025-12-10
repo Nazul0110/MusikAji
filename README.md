@@ -107,9 +107,8 @@ Jika project ini bermanfaat, jangan lupa beri ⭐ pada repository.
 ---
 
 Kalau mau aku tambahkan **screenshots aplikasi**, **badge Flutter**, atau versi b
-<img width="471" height="995" alt="Screenshot 2025-12-10 135926" src="https://github.com/user-attachments/assets/74baea6a-a2ae-4b40-a680-9fa3a1f7f6fd" />
-<img width="466" height="995" alt="Screenshot 2025-12-10 135941" src="https://github.com/user-attachments/assets/0d514056-a95f-4d27-ada6-e2dd5dcc58a6" />
-<img width="474" height="995" alt="Screenshot 2025-12-10 135958" src="https://github.com/user-attachments/assets/8146c6fa-9e3a-4c39-b647-b2d0553df53a" />
-<img width="469" height="994" alt="Screenshot 2025-12-10 140007" src="https://github.com/user-attachments/assets/2782c2e8-97e8-46b1-9f65-bac2e20d2748" />
-<img width="475" height="990" alt="Screenshot 2025-12-10 140020" src="https://github.com/user-attachments/assets/12a50de9-1445-4723-abe8-5ca1edab5900" />
-
+<img width="471" height="995" alt="Screenshot 2025-12-10 135926" src="https://github.com/user-attachments/assets/debfff9f-0e3c-4f7f-9fd0-d3f1b9b28aa7" />
+<img width="466" height="995" alt="Screenshot 2025-12-10 135941" src="https://github.com/user-attachments/assets/bea6a6e2-6a66-47e4-8423-311b885734cc" />
+<img width="474" height="995" alt="Screenshot 2025-12-10 135958" src="https://github.com/user-attachments/assets/4529acc9-b59a-4fb8-be72-e883ea7c34c8" />
+<img width="469" height="994" alt="Screenshot 2025-12-10 140007" src="https://github.com/user-attachments/assets/7ad89d38-87a6-4724-8694-9ca1568b27a9" />
+<img width="475" height="990" alt="Screenshot 2025-12-10 140020" src="https://github.com/user-attachments/assets/f24857a7-ac20-42c5-8d69-102a225476c0" />
